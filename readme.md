@@ -1,1 +1,3 @@
-testando instruções GIT e GITHUB
+testando instruções GIT e GITHUB. 
+
+incluindo alterações 
